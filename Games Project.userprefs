@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Objects\Scripts\Scissors.cs">
+    <Files>
+      <File FileName="Assets\Objects\Scripts\Inventory.cs" Line="24" Column="22" />
+      <File FileName="Assets\Objects\Scripts\Knife.cs" Line="61" Column="59" />
+      <File FileName="Assets\Objects\Scripts\Scissors.cs" Line="61" Column="62" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
